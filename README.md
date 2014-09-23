@@ -1,4 +1,4 @@
-Example app showing error caused by package.js load order of velocity:html-reporter and tap:i18n.
+Example app showing error caused by package.js load order of `velocity:html-reporter@0.2.2` and `tap:i18n@1.0.4`.
 
 #Working load order
 ```
